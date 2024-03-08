@@ -31,7 +31,3 @@ GC 메모리 해제 과정
 새로 생성된 객체는 young 영역으로.
 
 young 영역에서 minor gc 가 일어나면서 살아남은 객체들은 old 영역으로, old 영역에서도 major gc 가 일어나면서 메모리 관리를 해주게 됨.
-
-## Java 메모리 영역
-![image](https://github.com/seominsu1/TIL/assets/97941148/066f5a72-1618-473a-9c48-ef3e6ac45c6c)
-
