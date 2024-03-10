@@ -1,6 +1,6 @@
 ## Synchronous VS Asynchronous
 
-Synchronous VS Asynchronous?
+**Synchronous VS Asynchronous?**<br>
 → 순서와 결과(처리)의 관점
 
 **Synchronous?**<br>
@@ -16,6 +16,7 @@ Synchronous VS Asynchronous?
 3. 사원은 서류 검토결과를 기다리거나 다른일을 함. 하지만 서류 검토에 대한 신경을 계속 쓰고 있음.
 4. 서류 검토 결과가 나오면 사원은 바로 이 일을 처리함. 다른 작업중이었어도.
 <br><br><br>
+
 **Asynchronous?**<br>
 : 비동기. 끝나는 동시에 시작하지 않음.
 - 작업을 요청하고 **다른 일을 수행함**.
